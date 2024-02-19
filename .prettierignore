@@ -1,0 +1,8 @@
+node_modules
+# Ignore artifacts:
+dist
+build
+Coverage
+
+# Package
+package.json
